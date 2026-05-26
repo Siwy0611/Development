@@ -4,8 +4,15 @@ A simple and responsive QR code card built with HTML and CSS.
 
 ## Preview
 
-![Desktop](./design/Desktop.png)
-![Mobile](./design/Mobile.png)
+<p align="center">
+  <img src="./design/Desktop.png" width="500" alt="Desktop preview" />
+</p>
+<p align="center"><strong>Desktop version</strong></p>
+
+<p align="center">
+  <img src="./design/Mobile.png" width="250" alt="Mobile preview" />
+</p>
+<p align="center"><strong>Mobile version</strong></p>
 
 ## About The Project
 
