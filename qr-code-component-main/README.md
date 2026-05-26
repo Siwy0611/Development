@@ -5,10 +5,12 @@ A simple and responsive QR code card built with HTML and CSS.
 ## Preview
 
 <p align="center">
+  Desktop
   <img src="./design/Desktop.png" width="500" alt="Desktop preview" />
 </p>
 
 <p align="center">
+  Mobile
   <img src="./design/Mobile.png" width="250" alt="Mobile preview" />
 </p>
 
