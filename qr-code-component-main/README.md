@@ -30,3 +30,6 @@ The goal was to practice basic frontend development skills such as:
 - HTML5
 - CSS3
 - Flexbox
+##GH Pages
+
+https://siwy0611.github.io/Development/qr-code-component-main/
